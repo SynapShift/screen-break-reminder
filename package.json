@@ -1,5 +1,5 @@
 {
-  "name": "tonicue",
+  "name": "screen-break-reminder",
   "version": "0.1.5",
   "description": "A cute desktop break reminder for screen-heavy work.",
   "main": "src/main/main.js",
